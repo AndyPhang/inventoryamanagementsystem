@@ -15,6 +15,9 @@ Follow the following steps after Starting Apache and MySQL in XAMPP:
 <br><br>
 After Creating Database,<br>
 9th Step: Open a browser and go to URL “http://localhost/inventoryManagementSystem”<br>
-<br>
+<br><br>
+Admin Credentials<br>
+Username: admin<br>
+Password: admin<br>
 ![image](https://github.com/user-attachments/assets/e20a2ba1-a356-4fcc-ba6d-113d0c7fa3a5)
 ![image](https://github.com/user-attachments/assets/a43ccbe4-ae90-4b49-9719-b5441fdb6a95)
