@@ -1,6 +1,6 @@
 # Project: Item Management System
 Assignment for [ Internship - Software Programmer ] <br> <br>
-This is a Equipment Inventory Management System project that was developed using PHP and MySQL Database. This system was designed to organized and track its equipment. The system has two modules which are the Admin and the Users. The Admin is in charge of populating the system's main list and managing the equipment to track the items quickly. Aside from that, the "request for transfer or repair requests" can be easily retrieved because this system has a feature that users can send their requests. This project has a pleasant user interface and user-friendly functionalities.
+This is an Inventory Management System project that was developed using PHP and MySQL Database. This system was designed to organized and track its equipment. The system has two modules which are the Admin and the Users. The Admin is in charge of populating the system's main list and managing the equipment to track the items quickly. Aside from that, the "request for transfer or repair requests" can be easily retrieved because this system has a feature that users can send their requests. This project has a pleasant user interface and user-friendly functionalities.
 <br><br>
 Follow the following steps after Starting Apache and MySQL in XAMPP:
 <br><br>
