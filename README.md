@@ -7,14 +7,14 @@ Follow the following steps after Starting Apache and MySQL in XAMPP:
 1st Step: Firstly, Download and Extract the ZIP file<br>
 2nd Step: After that, Copy the main project folder<br>
 3rd Step: And you need to Paste it in xampp/htdocs/<br>
-4th Step: Now, Open a browser and go to URL “http://localhost/phpmyadmin/”<br>
+4th Step: Now, Open a browser and go to URL http://localhost/phpmyadmin/<br>
 5th Step: After that, Click on the databases tab<br>
 6th Step: Create a database named “ims” and then click on the import tab<br>
 7th Step: Click on browse file and select “database.sql” file which is inside the root folder<br>
 8th Step: Then click import and thats done.<br>
 <br>
 After Creating Database,<br>
-9th Step: Open a browser and go to URL “http://localhost/inventoryamanagementsystem-main”<br>
+9th Step: Open a browser and go to URL http://localhost/inventoryamanagementsystem-main<br>
 <br>
 Admin Credentials<br>
 Username: admin<br>
