@@ -12,10 +12,10 @@ Follow the following steps after Starting Apache and MySQL in XAMPP:
 6th Step: Create a database named “ims” and then click on the import tab<br>
 7th Step: Click on browse file and select “database.sql” file which is inside the root folder<br>
 8th Step: Then click import and thats done.<br>
-<br><br>
+<br>
 After Creating Database,<br>
-9th Step: Open a browser and go to URL “http://localhost/inventoryManagementSystem”<br>
-<br><br>
+9th Step: Open a browser and go to URL “http://localhost/inventoryamanagementsystem-main”<br>
+<br>
 Admin Credentials<br>
 Username: admin<br>
 Password: admin<br>
