@@ -14,7 +14,7 @@ Follow the following steps after Starting Apache and MySQL in XAMPP:
 8th Step: Then click import and thats done.<br>
 <br>
 After Creating Database,<br>
-9th Step: Open a browser and go to URL http://localhost/inventoryamanagementsystem-main<br>
+9th Step: Open a browser and go to URL [http://localhost/inventoryamanagementsystem-main](http://localhost/inventoryamanagementsystem-main/inventoryamanagementsystem-main/)<br>
 <br>
 Admin Credentials<br>
 Username: admin<br>
